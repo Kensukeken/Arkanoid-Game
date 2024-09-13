@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Arkanoid-Game
-Arkanoid Game using Java.
-=======
-# Arkanoid Game
+# Welcome to Arkanoid Game
 ![](/assets/maxresdefault.jpg)
 ## Overview
 
@@ -66,4 +62,3 @@ arkanoid-game/
 
 Feel free to submit issues or pull requests to enhance the game's features or fix bugs.
 
->>>>>>> 979460b (Updated)
